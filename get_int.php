@@ -3,7 +3,7 @@
 
 /*1- first: on in your web site page phpmyadmin.com .
 2-seconde  enter (NEW ) TO DO DATABASE NAME IS "phptest" NEKEST   name table IS "contacts".
-3-  CREATE THREE column (ID ,NUME,NUM) "ID": IS INT PRUMARY KEY -- "NUME": IS VARCHARE  -- "NUM": IS INT  */
+3-  CREATE THREE column (ID ,NUME,NUM) "ID": IS INT PRUMARY KEY -- "NAME": IS VARCHARE  -- "NUM": IS INT  */
 
 $host = "localhost";
 $username = "root";
